@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  max-width: 1440px;
+  margin: 20px auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 150px;
+}
+
+.bannerContainer {
+  background-image: url("./assets/Hero-bg.png");
+  margin-top: 20px;
+  height: 650px;
+  width: 100%;
+}
